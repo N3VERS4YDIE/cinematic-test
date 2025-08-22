@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hank J. Wimbleton
+* source:	https://sketchfab.com/3d-models/hank-j-wimbleton-fe0a57335cfb49038b2878c4e6b145a4
+* author:	Karl K Patts (https://sketchfab.com/karlkpatts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hank J. Wimbleton" (https://sketchfab.com/3d-models/hank-j-wimbleton-fe0a57335cfb49038b2878c4e6b145a4) by Karl K Patts (https://sketchfab.com/karlkpatts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

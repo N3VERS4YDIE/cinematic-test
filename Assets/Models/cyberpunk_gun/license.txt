@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk Gun
+* source:	https://sketchfab.com/3d-models/cyberpunk-gun-9b0b9c18b46e441c8ec8c3c4c9b7bd44
+* author:	Ziaraallman_3D (https://sketchfab.com/Ziaraallman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk Gun" (https://sketchfab.com/3d-models/cyberpunk-gun-9b0b9c18b46e441c8ec8c3c4c9b7bd44) by Ziaraallman_3D (https://sketchfab.com/Ziaraallman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

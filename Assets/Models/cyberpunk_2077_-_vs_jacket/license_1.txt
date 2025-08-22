@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk 2077 - V's Jacket
+* source:	https://sketchfab.com/3d-models/cyberpunk-2077-vs-jacket-d8caad07019141a0963aa66abb0efbf7
+* author:	Andromeda (https://sketchfab.com/div.andromeda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk 2077 - V's Jacket" (https://sketchfab.com/3d-models/cyberpunk-2077-vs-jacket-d8caad07019141a0963aa66abb0efbf7) by Andromeda (https://sketchfab.com/div.andromeda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

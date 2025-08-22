@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deimos- Madness Combat
+* source:	https://sketchfab.com/3d-models/deimos-madness-combat-9f294d42168343feb4660c999f53556b
+* author:	poppychips (https://sketchfab.com/poppychips)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deimos- Madness Combat" (https://sketchfab.com/3d-models/deimos-madness-combat-9f294d42168343feb4660c999f53556b) by poppychips (https://sketchfab.com/poppychips) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
