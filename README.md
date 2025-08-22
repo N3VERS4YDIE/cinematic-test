@@ -8,3 +8,5 @@ This project is an example of that approach, showcasing a cinematic I created by
 > When you press **Play** in the **Unity Editor**, the cinematic begins playing and rendering in real time. The final rendered video is automatically exported to the `Recordings` folder.
 
 https://github.com/user-attachments/assets/0d930208-077c-4973-bb81-036c0c6115ec
+
+*Watch video result in 4k 60fps: https://youtu.be/pgN5B4Hzhhg*
